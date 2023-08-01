@@ -1,0 +1,1 @@
+A Linear Support Vector Machine Classifier to predict whether a person will be granted a loan by the bank or not based on variables like Number of Dependents, Marital Status, Gender, Property Area, Education, Previous Records, etc.
